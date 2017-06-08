@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/adie/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_7ec2fdfbe021b6caac654a200f22b6d372b59df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_601f8f7856ef12b59053f76b32bef2467a605b75.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adie/Documents/Login/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1913b2728d786079a7bbb24ec99bf2d8ff56f553">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2be2cbacda8797744f68f7c55f043421e115f7c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/pre-dexed/debug/gson-2.6.2_2714cbf2cd011474bac9ba1684b2aa99a054a9f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adie/Documents/Login/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7380f3a60bb7bcfa4f5da472a81281c1d0596b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/pre-dexed/debug/okio-1.6.0_bcbcb4a371c83c627764d271e013fd136197a210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adie/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/adie/Documents/Login/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_a27c5a94fd1672215e5c0b61c9db6b4ded977b0f.jar" />
+    </item>
+
+</items>

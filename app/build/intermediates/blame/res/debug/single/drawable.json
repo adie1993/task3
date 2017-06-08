@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/fab_background.xml",
+        "source": "/home/adie/.android/build-cache/ff59bba90e1f18371800ee8bb0821a6492ad2521/output/res/drawable/fab_background.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/alertcustom.xml",
+        "source": "/home/adie/Documents/Login/app/src/main/res/drawable/alertcustom.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/ic_checked_mark.png",
+        "source": "/home/adie/.android/build-cache/c9edd0b2c6b5f705505bf027439864f4b5b9f781/output/res/drawable/ic_checked_mark.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/ic_failure_mark.png",
+        "source": "/home/adie/.android/build-cache/c9edd0b2c6b5f705505bf027439864f4b5b9f781/output/res/drawable/ic_failure_mark.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/snackbar_background.xml",
+        "source": "/home/adie/.android/build-cache/ff59bba90e1f18371800ee8bb0821a6492ad2521/output/res/drawable/snackbar_background.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/adie/.android/build-cache/5d2699ec9bb643743ae31ffe1fb2008b97b2c870/output/res/drawable/abc_btn_check_material.xml"
+    }
+]

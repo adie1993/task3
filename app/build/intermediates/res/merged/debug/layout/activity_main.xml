@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/colorPrimary"
+    tools:context="com.adie.login.activity.MainActivity">
+
+    <TextView
+        android:layout_marginTop="210dp"
+        android:id="@+id/wel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:gravity="center|bottom"
+        android:textSize="48sp"
+
+     />
+
+    <TextView
+
+        android:layout_below="@+id/wel"
+        android:id="@+id/disp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:gravity="center|bottom"
+        android:textSize="36sp"
+
+        />
+
+
+    <TextView
+        android:id="@+id/logout"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/disp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:textSize="36sp"
+
+        />
+</RelativeLayout>

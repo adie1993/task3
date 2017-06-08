@@ -1,0 +1,4 @@
+#Thu Jun 08 14:51:53 WIB 2017
+base.0=/home/adie/Documents/Login/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/home/adie/Documents/Login/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

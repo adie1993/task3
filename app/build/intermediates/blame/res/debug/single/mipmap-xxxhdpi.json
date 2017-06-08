@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/adie/Documents/Login/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/logo.png",
+        "source": "/home/adie/Documents/Login/app/src/main/res/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/adie/Documents/Login/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/adie/Documents/Login/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
